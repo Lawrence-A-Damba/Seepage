@@ -1,0 +1,54 @@
+ZZ 30^16'31.328"    91^10'17.54" (U)
+BOR. R-204.5-UR (67-506)
+STA. STA. 5222+00 3RD ORDER
+480 FT. R.S. OF B.L.
+
+Date: 1/20/1967
+
+GROUND EL. 26
+  0.0  1.4 28  1.4ML        BR GR    CS RT
+  1.4  3.6 28  3.6CL  SIS M BR GR
+  3.6  5.1 35  5.1CH  SIS M GR BR
+  5.1  6.8 34  6.8CL      M GR BR
+  6.8  7.8 43     CH  SIS M GR BR    SL                 423111 72 31      42  73
+  7.8  9.1 47     CH  SIS M GR BR     O RT WD OX
+  9.1 11.2 38     CH  SIS M BRG      WD OX SL           267116 68 24      35  97
+ 11.2 13.1 38     CH  SIS M GR BR    WD
+ 13.1 14.1 38 14.1CH  SISST GR BR    WD
+ 14.1 15.1 35     CL      M GR BR    WD
+ 15.1 16.1 30 16.1CL     SO BR       WD
+ 16.1 17.1 35 17.1CH  SIS M BRG      WD OX
+ 17.1 19.2 34 19.2CL  SISSO BRG      WD OX
+ 19.2 21.1 39 21.1CH  SIS M BRG      OX                 599119 44 21      36 210
+ 21.1 23.0 38 23.0CL  SIS M GR
+ 23.0 24.8 28 24.8ML        GR
+ 24.8 27.2    27.2NS
+ 27.2 28.5 46 28.5CH  SS SO GR
+ 28.5 30.8        SP   F    GR                                      .0790
+ 30.8 32.9        SP   F    GR                                      .2150
+ 32.9 34.9        SP   F    GR                                      .1350
+ 34.9 36.9        SP   F    GR                                      .1450
+ 36.9 38.9        SP   F    GR                                      .1400
+ 38.9 41.2        SP   F    GR                                      .1350
+ 41.2 45.5        SP   F    GR                                      .1800
+ 46.5 47.0        SP   F    GR        O              23
+ 50.5 51.0        SP   F    GR        O              36             .1350
+ 55.5 56.0        SP   F    GR        O              32             .1350
+ 60.5 61.0        SP   F    GR        O              39             .1010
+ 65.5 66.0        SP   F    GR                       41
+ 70.5 71.0        SP   F    GR       CS  O           40             .0780
+ 75.5 76.0        SP   F    GR        O              32
+ 80.5 81.0        SP   F    GR        O              21
+ 85.5 86.0        SP   F    GR        O              42             .0900
+ 90.5 91.0        SP   F    GR        O              57
+ 95.5 96.0        SP   F    GR                       84             .0990
+100.5101.0        SP   F    GR        O              58
+105.5106.0   107.0SP   F    GR                       95             .1100
+110.5111.0 36113.0CH  SS  M GR
+115.0115.5   117.5SP        GR       CS             101
+120.5121.0        SP   F    GR       CS             101             .1100
+125.5126.0        SP   F    GR                      101
+130.5131.0        SP   F    GR                       96             .0910
+135.0135.5   140.0SP   F    GR                      101
+140.5141.0   141.0SP        GR                       95             .1350
+999.9

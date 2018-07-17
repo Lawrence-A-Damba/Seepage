@@ -1,0 +1,40 @@
+ZZ 30^16'17"    91^8'21.001" (G)
+BOR. R-202.3-R (86-35)
+STA. STA. 4823+23 2ND ORDER
+400 FT. R.S. OF B/L TOP OF BANK
+
+Date: 9/15/1986
+
+GROUND EL. 25.9
+  0.0  0.5 15  1.5ML        BR       CS RT OX
+  2.5  3.0 34     CH  SISST GR BR    OX
+  5.0  5.5 26  6.5CH  SISST BR       OX
+  7.5  8.0 15     ML        BRG      CS OX
+ 10.0 10.5 12 11.5ML        BR       CS OX
+ 12.5 13.0 36 14.0CH  SISST GR       OX
+ 15.0 15.5 21 16.5ML        GR       CS  O
+ 17.5 18.0 38 19.0CH  SIS M GR
+ 20.0 20.5 19     ML        GR       CS OX
+ 22.5 23.0 11 24.0ML        GR       OX
+ 25.0 25.5        SM        GR       OX
+ 27.5 28.0    29.0SM        GR       OX
+ 30.0 30.5 43 31.5CH  SS  M GR       OX
+ 32.5 33.0        SM        GR       CS OX
+ 35.0 35.5        SM        GR       CS OX
+ 37.5 38.0    39.0SM        GR       CS OX
+ 40.0 41.5 39 43.3CH  SISST GR       OX              18
+ 45.0 46.5        SM        GR       OX              28
+ 50.0 51.5        SM        BR       OX              32
+ 55.0 56.5        SM        BR       OX              72
+ 60.0 61.5        SM        BR       OX              66
+ 65.0 66.5        SM        BR       OX WD           47
+ 70.0 71.5        SM        BR       CS  O WD        49
+ 75.0 76.5        SM        BR       CS  O WD        54
+ 80.0 81.4        SM        BR GR    OX              96
+ 85.0 86.4        SM        BR GR    OX              88
+ 90.0 91.2        SM        BR       OX              93
+ 95.0 96.3        SM        BR GR    OX              86
+100.0101.5        SM        BR       OX              95
+105.0106.5        SM        BR       OX              88
+110.0111.2   111.2SM        BR GR    OX              92
+999.9

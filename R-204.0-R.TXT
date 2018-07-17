@@ -1,0 +1,40 @@
+ZZ 30^16'31.994"    91^9'52.985" (G)
+BOR. R-204.0-R (67-506)
+STA. STA.5242+00 3RD ORDER
+355 FT. R.S. B/L LEVEE
+
+Date: 2/27/1967
+
+GROUND EL. 27.8
+  0.0  1.5 35  2.3CL     SO BR       WD
+  3.0  3.5 34  5.5ML        BR       WD
+  6.0  6.5 37     CH     ST GR BR    OX
+  8.0  8.5 33 10.0CH      M BR       WD
+ 11.0 11.5 37     CL     SO DGR      WD                        39 19
+ 13.0 13.5 34     CL     SO GR
+ 16.0 16.5 32 17.3CL     SO GR
+ 18.0 18.5 32     ML        GR
+ 21.0 21.5 32     ML        GR
+ 23.0 23.5 26     ML        GR
+ 26.0 26.5 35     ML        GR       CS
+ 28.0 28.5 32     ML        GR       CS WD
+ 31.0 31.5 32     ML        GR       CS
+ 33.0 33.5 28 34.8ML        GR
+ 36.0 36.5 34 38.0CH  SIS M GNG
+ 38.0 38.5    39.3SM        GR
+ 40.0 41.5        SP   F    GR        M  O           45
+ 42.5 44.0        SP   F    GR        M              32             .1550
+ 47.5 49.0        SP   F    GR        M              43
+ 52.5 54.0        SP   F    GR                       56             .1050
+ 57.5 59.0        SP   F    GR                       66
+ 62.5 64.0        SP   F    GR        M              65             .0810
+ 67.5 69.0        SP   F    GR                       67
+ 72.5 74.0        SP   F    GR        M  O           64             .1100
+ 77.5 79.5        SP   F    GR                       64
+ 82.5 84.0        SP   F    GR                       60             .1100
+ 87.5 89.0        SP   F    GR                       99
+ 92.5 93.5        SP   F    GR        M             101             .1400
+ 97.5 98.4        SP   F    GR        M             101
+102.5103.5        SP   F    GR        M             101             .1300
+108.0109.5   109.5SP   F    GR                       88
+999.9

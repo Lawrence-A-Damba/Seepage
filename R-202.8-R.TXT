@@ -1,0 +1,45 @@
+ZZ 30^16'20.996"    91^8'50.006" (G)
+BOR. R-202.8-R (86-35)
+STA. STA. 4798+53 2ND ORDER
+450 FT. R/S OF B/L
+
+Date: 9/11/1986
+
+GROUND EL. 32.9
+  0.0  0.5 21     ML        BR       WD RT OX
+  2.5  3.0 11     ML        BR       CS OX
+  5.0  5.5 16  6.5ML        BR       CS RT OX
+  7.5  8.0     9.0SM        BR
+ 10.0 10.5 29     ML        BR       OX
+ 12.5 13.0 33 14.0ML        BR GR    CS
+ 15.0 15.5 56     CH  SS VSOGR
+ 17.5 18.0 36 19.0CH  SS  M GR       OX
+ 20.0 20.5 33 21.5CL  SS VSOGR
+ 22.5 23.0 40 24.0CH  SS VSOGR       WD
+ 25.0 25.5    26.5SM        GR       WD
+ 27.5 28.0 34 29.0CL  SS VSOGR
+ 30.0 30.5    31.5SM        GR
+ 32.5 33.0 39 34.0CH  SS VSOGR
+ 35.0 35.5    36.5SM        GR       CS
+ 37.5 38.0 43 39.0CL  SS SO GR
+ 40.0 40.5    41.5SM        GR       CS
+ 42.5 43.0 47 44.0CH  SS SO GR BR    OX
+ 45.0 45.5 40     CL  SS VSOGR
+ 47.5 48.0 39 49.0CL  SS SO GR       OX
+ 50.0 50.5 45 51.5CH  SS SO GR       OX
+ 52.5 53.0 62     CH      M GR
+ 55.0 55.5 56 56.5CH      M GR
+ 57.5 58.0 51     CH  SS  M GR
+ 60.0 60.5 51 61.5CH  SS  M GR
+ 62.5 63.0        SM        GR                                      .1750
+ 65.0 66.5        SM        GR       CS              27
+ 70.0 71.5        SM        GR        O              44
+ 75.0 76.5        SM        GR       OX              91             .1300
+ 80.0 81.5        SM        GR       WD              61
+ 85.0 86.5        SM        GR                       44
+ 90.0 91.5        SM        GR       OX              65
+ 95.0 96.0        SM        GR       OX              48             .0960
+100.0101.5        SM        GR       OX WD           51
+105.0106.5        SM        GR       OX WD           81
+110.0111.5   111.5SM        GR       OX              67
+999.9
